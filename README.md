@@ -1,9 +1,0 @@
-# my-first-blog
-
-Hello !
-
-This is my first project in Djago .
-I am still doing it ;)...
-Simple blog from Django Girls tutorial .
-Hope will be lot more in future . 
-you can see result in https://91michal91.pythonanywhere.com
